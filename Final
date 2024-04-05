@@ -1,0 +1,42 @@
+# Data Science Tools and Ecosystem
+
+---
+
+## Introduction
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+---
+
+## List of Data Science Languages
+1. Python
+2. R
+3. Julia
+
+---
+
+## List of Data Science Libraries
+1. Pandas
+2. NumPy
+3. Matplotlib
+
+---
+
+## Table of Data Science Tools
+| Data Science Tools |
+|---------------------|
+| Jupyter Notebook    |
+| RStudio             |
+| Spyder              |
+
+---
+
+## Introduction to Arithmetic Expressions
+### Below are a few examples of evaluating arithmetic expressions in Python.
+
+---
+
+## Code Cell with Arithmetic Expressions
+```python
+# Example: Multiplication and Addition
+result = (3 * 4) + 5  
+print("Result:", result)
