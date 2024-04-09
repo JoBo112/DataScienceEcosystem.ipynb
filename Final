@@ -2,17 +2,19 @@
 
 ---
 
-## Introduction
-In this notebook, Data Science Tools and Ecosystem are summarized.
+## Introduction to Data Science Tools and Ecosystem
+
+In this notebook, we explore various tools and libraries commonly used in the field of data science.
 
 ---
 
-## List of Data Science Languages
-1. Python
-2. R
-3. Julia
+## Objectives:
 
----
+- **List popular languages for Data Science**
+- **Highlight commonly used libraries in Data Science**
+- **Showcase popular tools for Data Science development**
+
+
 
 ## List of Data Science Libraries
 1. Pandas
@@ -39,4 +41,13 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
 ```python
 # Example: Multiplication and Addition
 result = (3 * 4) + 5  
-print("Result:", result)
+Result: 17
+
+# Convert minutes to hours
+minutes = 200
+hours = minutes / 60
+Hours: 3.3333333333333335
+
+## Author
+### Author: Joshua Boyle
+
